@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Calculator</string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="title_activity_third">ThirdActivity</string>
+    <string name="textview">TextView</string>
+</resources>
